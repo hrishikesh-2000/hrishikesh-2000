@@ -40,13 +40,14 @@
 ## 💼 Currently Working On
 - Building and optimizing data pipelines with Azure Data Factory and Databricks for large-scale data ingestion.
 - Implementing Medallion Architecture and creating curated business views in SQL for data modeling.
-- 🔭 I’m currently working on **ETL pipeline for Stock Market (haven't created a repo yet, working locally on my desktop as of 29th Oct 2024)**
-- 🌱 I’m currently learning and expanding my knowledge in **Docker, PySpark, Python DSA, and Kafka**
+
 
 ## 📘 Currently Learning
 - Deepening my knowledge of PySpark for handling large-scale data applications.
 - Expanding CI/CD and DevOps skills for seamless data pipeline deployments.
 - Learning best practices in cloud data engineerifocusingcus on Azure services.
+- 🔭 I’m currently working on **ETL pipeline for Stock Market (haven't created a repo yet, working locally on my desktop as of 29th Oct 2024)**
+- 🌱 I’m currently learning and expanding my knowledge in **Docker, PySpark, Python DSA, and Kafka**
 
 ## 📈 Career Goals
 1. Master complex data engineering concepts and tools.
