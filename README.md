@@ -23,8 +23,8 @@
 - **Data Engineering Enthusiast**: Passionate about designing, building, and scaling data processing systems.
 - **Problem Solver**: I love tackling complex challenges and turning raw data into valuable insights.
 - **Career Goal**: To become a top data engineer known for leveraging technical and analytical skills to drive meaningful impact.
-- 🔭 I’m currently working on **ETL pipeline for Stock Market (haven't created a repo yet, working locally on my desktop as of 29th Oct 2024)**
-- 🌱 I’m currently learning and expanding my knowledge in **Docker, PySpark, Python DSA, and Kafka**
+
+  
 - 📫 How to reach me? **sutarhrishikesh00@gmail.com**
 
 
@@ -40,6 +40,8 @@
 ## 💼 Currently Working On
 - Building and optimizing data pipelines with Azure Data Factory and Databricks for large-scale data ingestion.
 - Implementing Medallion Architecture and creating curated business views in SQL for data modeling.
+- 🔭 I’m currently working on **ETL pipeline for Stock Market (haven't created a repo yet, working locally on my desktop as of 29th Oct 2024)**
+- 🌱 I’m currently learning and expanding my knowledge in **Docker, PySpark, Python DSA, and Kafka**
 
 ## 📘 Currently Learning
 - Deepening my knowledge of PySpark for handling large-scale data applications.
