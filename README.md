@@ -31,7 +31,7 @@
 
 ## 📚 I'm Currently Certified In:
 <a href="https://learn.microsoft.com/en-us/users/hrishikeshsutar-6886/credentials/certification/azure-data-engineer?tab=credentials-tab">
-  <img src="certifications/data-engineering-cert.png" alt="Data Engineering Certification" width="100" height="100">
+  <img src="Certifications/Credentials - Hrishikeshsutar-6886 _ Microsoft Learn-1.jpg" alt="Data Engineering Certification" width="100" height="100">
 </a>
 
 
