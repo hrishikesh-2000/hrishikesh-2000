@@ -48,6 +48,7 @@
 - Learning best practices in cloud data engineerifocusingcus on Azure services.
 - 🔭 I’m currently working on **ETL pipeline for Stock Market (haven't created a repo yet, working locally on my desktop as of 29th Oct 2024)**
 - 🌱 I’m currently learning and expanding my knowledge in **Docker, PySpark, Python DSA, and Kafka**
+- 🎸 Aspiring Rockstar in the Making! Currently learning guitar, so if you hear any out-of-tune noises, it's all part of the "creative process"! 🎶
 
 ## 📈 Career Goals
 1. Master complex data engineering concepts and tools.
