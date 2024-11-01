@@ -32,7 +32,8 @@
 ## 📚 I'm Currently Certified In:
 
 
-![Credentials - Hrishikeshsutar-6886 _ Microsoft Learn-1](https://github.com/user-attachments/assets/e70b0eae-4c45-4651-9239-ba1f0fe7625f)
+<img src="https://github.com/user-attachments/assets/e70b0eae-4c45-4651-9239-ba1f0fe7625f" alt="Credentials - Hrishikeshsutar-6886 Microsoft Learn" width="300">
+
 
 
 
