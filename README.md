@@ -32,9 +32,7 @@
 ## 📚 I'm Currently Certified In:
 
 
-<img src="https://github.com/user-attachments/assets/e70b0eae-4c45-4651-9239-ba1f0fe7625f" alt="Credentials - Hrishikeshsutar-6886 Microsoft Learn" width="300">
-
-
+<a href="https://learn.microsoft.com/en-us/users/hrishikeshsutar-6886/credentials/certification/azure-data-engineer?tab=credentials-tab" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/e70b0eae-4c45-4651-9239-ba1f0fe7625f" alt="YAML" width="100" height="100"/> </a>
 
 
 ## 🔧 Technical Skills
