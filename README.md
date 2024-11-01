@@ -35,9 +35,8 @@
 <a href="https://learn.microsoft.com/en-us/users/hrishikeshsutar-6886/credentials/certification/azure-data-engineer?tab=credentials-tab" target="_blank" rel="noreferrer"> <img src="https://github.com/hrishikesh-2000/Certifications/blob/main/DP203.jpg" alt="DP203" width="300"/> </a>
 <a href="https://credentials.databricks.com/2472086a-ab38-4821-9eee-96fc5efb77bd" target="_blank" rel="noreferrer"> <img src="https://github.com/hrishikesh-2000/Certifications/blob/main/Databricks_Data_engineer_associate.png" alt="Databricks" width="300"/> </a>
 <a href="https://learn.microsoft.com/en-us/users/hrishikeshsutar-6886/credentials/certification/azure-data-fundamentals?tab=credentials-tab" target="_blank" rel="noreferrer"> <img src="https://github.com/hrishikesh-2000/Certifications/blob/main/DP900.jpg" alt="DP900" width="300"/> </a>
-
-
 </p>
+
 ## 🔧 Technical Skills
 - **Languages**: Python, PySpark, SQL
 - **Big Data Tools**: Hadoop, Spark, HDFS, Hive, HBase
