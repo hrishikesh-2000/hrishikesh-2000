@@ -65,6 +65,4 @@
 
 Let's collaborate and grow in the world of data engineering!
 
-<div align="center">
-  <img src="https://github.com/hrishikesh-2000/Images/blob/main/2D%20Animation%20-%20Guitar%20Player%2C%20Kat%20Nowak.gif" alt="ETL Pipeline Diagram" width="600"/>
-</div>
+
