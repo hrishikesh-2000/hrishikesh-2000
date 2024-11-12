@@ -66,6 +66,6 @@
 Let's collaborate and grow in the world of data engineering!
 
 <div align="center">
-  <img src="" alt="Data" width="500"/>
+  <img src="https://github.com/hrishikesh-2000/Images/blob/main/3a8105197bf6472fa8e825c06a3e5041.gif" alt="Data" width="500"/>
 </div>
 
