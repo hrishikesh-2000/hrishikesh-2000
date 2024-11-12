@@ -65,4 +65,7 @@
 
 Let's collaborate and grow in the world of data engineering!
 
+<div align="center">
+  <img src="" alt="Data" width="500"/>
+</div>
 
