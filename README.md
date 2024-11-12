@@ -20,9 +20,8 @@
 
 
 ## 🚀 About Me
-- **Data Engineering Enthusiast**: Passionate about designing, building, and scaling data processing systems.
-- **Problem Solver**: I love tackling complex challenges and turning raw data into valuable insights.
-- **Career Goal**: To become a top data engineer known for leveraging technical and analytical skills to drive meaningful impact.
+- **Passionate about designing, building, and scaling data processing systems.**
+- **I am much more into understanding fundamentals and trying to tackle complex challenges and finding if something valuable I can turn into from raw data**
 
   
 - 📫 How to reach me? **sutarhrishikesh00@gmail.com**
@@ -44,20 +43,19 @@
 - **Cloud**: Azure (Data Factory, Databricks, Synapse, DevOps)
 - **Data Engineering**: Data Warehousing, Data Modeling, CI/CD, API Integration
 
-## 💼 Currently Working On
+## 💼 Building Stuff and Hoping It Works
 - Building and optimizing data pipelines with Azure Data Factory and Databricks for large-scale data ingestion.
 - Implementing Medallion Architecture and creating curated business views in SQL for data modeling.
 
 
-## 📘 Currently Learning
+## 📘 On a Quest to Figure This Stuff Out
 - Deepening my knowledge of PySpark for handling large-scale data applications.
 - Expanding CI/CD and DevOps skills for seamless data pipeline deployments.
 - Learning best practices in cloud data engineerifocusingcus on Azure services.
-- 🔭 I’m currently working on **ETL pipeline for Stock Market (haven't created a repo yet, working locally on my desktop as of 29th Oct 2024)**
 - 🌱 I’m currently learning and expanding my knowledge in **Docker, PySpark, Python DSA, and Kafka**
 - 🎸 Aspiring Rockstar in the Making! Currently learning guitar, so if you hear any out-of-tune noises, it's all part of the "creative process"! 🎶
 
-## 📈 Career Goals
+## 📈 That's what I wanna achieve
 1. Master complex data engineering concepts and tools.
 2. Specialize in designing scalable data pipelines with PySpark.
 3. Contribute to impactful data projects and evolve as a well-rounded data engineer.
