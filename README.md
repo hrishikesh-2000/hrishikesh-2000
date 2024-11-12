@@ -1,5 +1,5 @@
 <h1 align="center">Hi Folks 👋, I'm Hrishikesh Sutar</h1>
-<h3 align="center">Hey there! I'm a data engineering enthusiast from India, diving deep into the world of PySpark and large-scale data processing. I’m all about mastering the basics, building cool things with data, and learning as I go! 🚀</h3>
+<h3 align="center">Hey there! I'm a data engineering enthusiast from India, diving deep into the world of PySpark and large-scale data processing. If not plumbing, you will quite often find me strumming my guitar 😜! 🚀</h3>
 
 <p align="center">
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
