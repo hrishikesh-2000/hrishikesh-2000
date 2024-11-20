@@ -44,6 +44,7 @@
 - **Data Engineering**: Data Warehousing, Data Modeling, CI/CD, API Integration
 
 ## 💼 Building Stuff and Hoping It Works
+- Currently working on project end-to-end ETL pipeline for the insurance domain as of (20th November), including schema modeling.
 - Building and optimizing data pipelines with Azure Data Factory and Databricks for large-scale data ingestion.
 - Implementing Medallion Architecture and creating curated business views in SQL for data modeling.
 
@@ -51,7 +52,7 @@
 ## 📘 On a Quest to Figure This Stuff Out
 - Deepening my knowledge of PySpark for handling large-scale data applications.
 - Expanding CI/CD and DevOps skills for seamless data pipeline deployments.
-- Learning best practices in cloud data engineerifocusingcus on Azure services.
+- Learning best practices in cloud data engineering focusing on Azure services.
 - 🌱 I’m currently learning and expanding my knowledge in **Docker, PySpark, Python DSA, and Kafka**
 - 🎸 Aspiring Rockstar in the Making! Currently learning guitar, so if you hear any out-of-tune noises, it's all part of the "creative process"! 🎶
 
