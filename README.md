@@ -44,7 +44,7 @@
 - **Data Engineering**: Data Warehousing, Data Modeling, CI/CD, API Integration
 
 ## 💼 Building Stuff and Hoping It Works
-- Currently working on project end-to-end ETL pipeline for the insurance domain as of (20th November), including schema modeling.
+- Currently working on project end-to-end ETL pipeline for the insurance domain as of (25th Jan, 2025), including schema modeling.
 - Building and optimizing data pipelines with Azure Data Factory and Databricks for large-scale data ingestion.
 - Implementing Medallion Architecture and creating curated business views in SQL for data modeling.
 
